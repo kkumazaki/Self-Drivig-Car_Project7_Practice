@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/10322/udacity/Project07_Highway_Driving/Practice_Lesson8/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\main.dir\\classifier.cpp.obj -c C:\\Users\\10322\\udacity\\Project07_Highway_Driving\\Practice_Lesson8\\classifier.cpp",
+  "file": "C:/Users/10322/udacity/Project07_Highway_Driving/Practice_Lesson8/classifier.cpp"
+},
+{
+  "directory": "C:/Users/10322/udacity/Project07_Highway_Driving/Practice_Lesson8/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\10322\\udacity\\Project07_Highway_Driving\\Practice_Lesson8\\main.cpp",
+  "file": "C:/Users/10322/udacity/Project07_Highway_Driving/Practice_Lesson8/main.cpp"
+}
+]

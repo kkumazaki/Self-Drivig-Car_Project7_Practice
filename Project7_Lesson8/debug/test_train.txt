@@ -1,0 +1,28 @@
+mean_left: 19.7141
+std_left:  12.2899
+mean_keep: 20.3242
+std_keep:  9.57749
+mean_right:19.4772
+std_right: 11.8268
+
+mean_left: 5.05181
+std_left:  2.36011
+mean_keep: 3.68024
+std_keep:  2.82163
+mean_right:2.93405
+std_right: 2.26915
+
+mean_left: 9.91413
+std_left:  0.990239
+mean_keep: 9.99854
+std_keep:  0.878159
+mean_right:9.94717
+std_right: 0.940592
+
+mean_left: -0.967087
+std_left:  0.663282
+mean_keep: 0.00581204
+std_keep:  0.143319
+mean_right:0.954022
+std_right: 0.637703
+
